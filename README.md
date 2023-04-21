@@ -4,14 +4,14 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **AluraPlus**
+| :label: Tecnologias | html, css (tecnologias utilizadas)
+| :rocket: URL         | https://devmatheusbarba.github.io/alura_plus/
+| :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/DevMatheusBarba/alura_plus/telainicial.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto afim de mostra algumas possibilidades que podemos fazer apenas utilizando o HTML e CSS 
