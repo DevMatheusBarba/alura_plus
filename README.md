@@ -1,6 +1,5 @@
-# Nome do meu projeto
+# AluraPlus
 
-Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -10,7 +9,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/DevMatheusBarba/alura_plus/telainicial.png#vitrinedev)
+![](https://raw.githubusercontent.com/DevMatheusBarba/alura_plus/main/telainicial.png#vitrinedev)
 
 ## Detalhes do projeto
 
