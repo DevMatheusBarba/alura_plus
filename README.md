@@ -9,7 +9,7 @@
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/DevMatheusBarba/alura_plus/main/telainicial.png#vitrinedev)
+![](https://raw.githubusercontent.com/DevMatheusBarba/alura_plus/main/"Capa do projeto".png#vitrinedev)
 
 ## Detalhes do projeto
 
